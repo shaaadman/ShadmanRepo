@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Razer
+ *
+ */
+module FirstGitProject {
+}
